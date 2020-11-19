@@ -1,16 +1,16 @@
-﻿using Shared;
+﻿using System.Threading.Tasks;
 using System.Net.Http.Json;
-using System.Threading.Tasks;
+using HelloBlazor.Shared;
 
-namespace WASM.Pages
+namespace HelloBlazor.WASM.Pages
 {
     public partial class FetchData
     {
-        private WeatherForecast[] forecasts;
+        private WeatherForecast[] _forecasts;
 
         protected override async Task OnInitializedAsync()
         {
-            forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
+            _forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
         }
     }
 }

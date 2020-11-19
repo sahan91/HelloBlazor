@@ -1,9 +1,9 @@
 using System;
 using System.Linq;
 using System.Threading.Tasks;
-using Shared;
+using HelloBlazor.Shared;
 
-namespace Server.Data
+namespace HelloBlazor.Server.Data
 {
     public class WeatherForecastService
     {

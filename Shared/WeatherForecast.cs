@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Shared
+namespace HelloBlazor.Shared
 {
     public class WeatherForecast
     {

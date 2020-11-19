@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Threading.Tasks;
+using HelloBlazor.App.Service;
 using HelloBlazor.Shared;
-using HelloRazor.App.Service;
 using Microsoft.AspNetCore.Components;
 
-namespace HelloRazor.App.Pages
+namespace HelloBlazor.App.Pages
 {
     public partial class FetchData
     {

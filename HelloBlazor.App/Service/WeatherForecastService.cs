@@ -3,7 +3,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using HelloBlazor.Shared;
 
-namespace HelloRazor.App.Service
+namespace HelloBlazor.App.Service
 {
     public class WeatherForecastService
     {

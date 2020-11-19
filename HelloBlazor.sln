@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloBlazor.Server", "Server\HelloBlazor.Server.csproj", "{035C5998-165F-4FD1-B0D3-048EDAFFA44B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloBlazor.Server", "HelloBlazor.Server\HelloBlazor.Server.csproj", "{035C5998-165F-4FD1-B0D3-048EDAFFA44B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloBlazor.WASM", "WASM\HelloBlazor.WASM.csproj", "{90ACA1B1-A949-48BD-8012-3D05F2B05ADD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloBlazor.WASM", "HelloBlazor.WASM\HelloBlazor.WASM.csproj", "{90ACA1B1-A949-48BD-8012-3D05F2B05ADD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloBlazor.Shared", "Shared\HelloBlazor.Shared.csproj", "{B5299805-06D8-4AAB-AC3D-E52946C3ED91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloBlazor.Shared", "HelloBlazor.Shared\HelloBlazor.Shared.csproj", "{B5299805-06D8-4AAB-AC3D-E52946C3ED91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloRazor.App", "HelloRazor.App\HelloRazor.App.csproj", "{BD08BC15-52D9-43AE-B2F8-60F0BFD35E7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloBlazor.App", "HelloBlazor.App\HelloBlazor.App.csproj", "{BD08BC15-52D9-43AE-B2F8-60F0BFD35E7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

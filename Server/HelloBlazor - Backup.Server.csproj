@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HelloRazor.App\HelloRazor.App.csproj" />
+    <ProjectReference Include="..\Shared\HelloBlazor.Shared.csproj" />
   </ItemGroup>
 
 </Project>

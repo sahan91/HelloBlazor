@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using HelloBlazor.Shared;
 
-namespace HelloBlazor.App.Pages
+namespace HelloBlazor.App.Pages.Todo
 {
     public partial class Todo
     {

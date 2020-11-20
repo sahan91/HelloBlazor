@@ -4,7 +4,7 @@ using HelloBlazor.App.Service;
 using HelloBlazor.Shared;
 using Microsoft.AspNetCore.Components;
 
-namespace HelloBlazor.App.Pages
+namespace HelloBlazor.App.Pages.Weather
 {
     public partial class FetchData
     {

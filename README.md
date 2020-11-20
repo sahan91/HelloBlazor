@@ -1,4 +1,4 @@
-# HelloBlazor - Shared views two hosting models (Blazor Server and Blazor WASM)
+# HelloBlazor - Shared views with two hosting models (Blazor Server and Blazor WASM)
 
 This app model shares the same set of views across two different hosting models
 
